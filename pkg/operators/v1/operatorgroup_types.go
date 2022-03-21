@@ -14,6 +14,7 @@ const (
 	OperatorGroupNamespaceAnnotationKey    = "olm.operatorNamespace"
 	OperatorGroupTargetsAnnotationKey      = "olm.targetNamespaces"
 	OperatorGroupProvidedAPIsAnnotationKey = "olm.providedAPIs"
+	OperatorGroupFailForwardAnnotationKey  = "olm.failForward"
 
 	OperatorGroupKind = "OperatorGroup"
 
